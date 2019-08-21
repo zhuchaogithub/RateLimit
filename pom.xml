@@ -8,9 +8,9 @@
 		<version>2.1.7.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.example.redis-rateLimit</groupId>
+	<groupId>org.example</groupId>
 	<artifactId>RateLimit</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>RateLimit</name>
 	<description>Demo project for Spring Boot</description>
 
